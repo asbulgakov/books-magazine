@@ -1,1 +1,1 @@
-This is the test repository
+This is test repository from task "Books magazine. Step 2"
